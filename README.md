@@ -26,7 +26,7 @@
 
 # social sciences
 - Doctoral Seminar In Research Methods I https://ocw.mit.edu/courses/15-347-doctoral-seminar-in-research-methods-i-fall-2004/
-
+- Doctoral Seminar In Research Methods II https://ocw.mit.edu/courses/15-348-doctoral-seminar-in-research-methods-ii-spring-2004/
 
 ## psych
 
